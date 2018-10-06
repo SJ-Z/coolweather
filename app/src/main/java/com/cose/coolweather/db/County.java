@@ -1,6 +1,8 @@
 package com.cose.coolweather.db;
 
-public class Country {
+import org.litepal.crud.LitePalSupport;
+
+public class County extends LitePalSupport {
     private int id;
     private String countryName;
     private String weatherId;

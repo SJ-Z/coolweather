@@ -7,7 +7,7 @@
     <list>
         <mapping class="com.cose.coolweather.db.Province" />
         <mapping class="com.cose.coolweather.db.City" />
-        <mapping class="com.cose.coolweather.db.Country" />
+        <mapping class="com.cose.coolweather.db.County" />
     </list>
 
 </litepal>
