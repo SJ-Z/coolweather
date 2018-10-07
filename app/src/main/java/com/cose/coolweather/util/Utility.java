@@ -1,6 +1,7 @@
 package com.cose.coolweather.util;
 
 import android.text.TextUtils;
+import android.util.Log;
 
 import com.cose.coolweather.db.City;
 import com.cose.coolweather.db.County;
